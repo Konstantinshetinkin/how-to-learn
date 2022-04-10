@@ -8,6 +8,6 @@
     list-style: none;
     flex-direction: column;
 }
-.cards__item:nth-last-child(3){
+.cards__item:nth-child(3){
     margin-right: 0px;
 }
